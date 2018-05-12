@@ -1,0 +1,29 @@
+_repo: Gutenberg-pi-ce-historique-en-5-actes-8-tableaux_23618
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Figuier, Louis
+    alias: Figuier, Guillaume-Louis
+    birthdate: 1819
+    deathdate: 1894
+    gutenberg_agent_id: '25945'
+    url: http://www.gutenberg.org/2009/agents/25945
+    wikipedia: http://fr.wikipedia.org/wiki/Louis_Figuier
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2007-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23618'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gutenberg, Johann, 1397?-1468 -- Drama'
+- !lcc 'PQ'
+title: Gutenberg, pièce historique en 5 actes, 8 tableaux
+url: http://www.gutenberg.org/ebooks/23618
